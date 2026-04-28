@@ -5,6 +5,7 @@
 test/
 
 model/
+!resources/model/best.pt
 
 pool_dataset/
 
