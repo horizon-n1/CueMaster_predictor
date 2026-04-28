@@ -4,10 +4,16 @@
 
 test/
 
-model/
-!resources/model/best.pt
+model/framesFile/
+*.txt
+*.data
+*.yaml
+*.names
+
+
 
 pool_dataset/
+
 
 pool_dataset.zip
 
